@@ -1,0 +1,20 @@
+{
+  "name": "api-tcc-controleconsumo",
+  "version": "1.0.0",
+  "description": "TCC de controle de consumo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guioliver1312-gif/api-tcc-ControleConsumo.git"
+  },
+  "keywords": ["api","sistema consumo","consumo interno"],
+  "author": "Guilherme Sarmento - Gabriela Elpidio - Breno Antonio - Alex Sato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guioliver1312-gif/api-tcc-ControleConsumo/issues"
+  },
+  "homepage": "https://github.com/guioliver1312-gif/api-tcc-ControleConsumo#readme"
+}
